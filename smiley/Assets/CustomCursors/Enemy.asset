@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe7678fd5cc442468fdd97e2bddf4bf, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  cursorName: enemy
+  texture: {fileID: 2800000, guid: 40fea0f585190a64bbc0a6c66f513119, type: 3}
+  hotSpot: {x: 16, y: 7}
